@@ -1,0 +1,1545 @@
+server4 is closed.
+server2 is closed.
+server1 is closed.
+server5 is closed.
+server3 is closed.
+
+ TIME : 0
+ Task 20 arrivalTime = 2 serviceTime = 32
+ Task 28 arrivalTime = 2 serviceTime = 27
+ Task 39 arrivalTime = 2 serviceTime = 11
+ Task 36 arrivalTime = 4 serviceTime = 32
+ Task 16 arrivalTime = 5 serviceTime = 28
+ Task 31 arrivalTime = 5 serviceTime = 9
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+
+ TIME : 1
+ Task 20 arrivalTime = 2 serviceTime = 32
+ Task 28 arrivalTime = 2 serviceTime = 27
+ Task 39 arrivalTime = 2 serviceTime = 11
+ Task 36 arrivalTime = 4 serviceTime = 32
+ Task 16 arrivalTime = 5 serviceTime = 28
+ Task 31 arrivalTime = 5 serviceTime = 9
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server2 is closed.
+server4 is closed.
+server5 is closed.
+server1 is closed.
+server3 is closed.
+
+ TIME : 2
+ Task 36 arrivalTime = 4 serviceTime = 32
+ Task 16 arrivalTime = 5 serviceTime = 28
+ Task 31 arrivalTime = 5 serviceTime = 9
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 is closed.
+server4 is closed.
+server1 : server3 : server2 :  Task 39 arrivalTime = 2 serviceTime = 11  Task 20 arrivalTime = 2 serviceTime = 32  Task 28 arrivalTime = 2 serviceTime = 27 
+
+
+
+ TIME : 3
+ Task 36 arrivalTime = 4 serviceTime = 32
+ Task 16 arrivalTime = 5 serviceTime = 28
+ Task 31 arrivalTime = 5 serviceTime = 9
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 is closed.
+server4 is closed.
+server1 : server2 :  Task 20 arrivalTime = 2 serviceTime = 31 server3 :  Task 28 arrivalTime = 2 serviceTime = 26 
+ Task 39 arrivalTime = 2 serviceTime = 10 
+
+
+ TIME : 4
+ Task 16 arrivalTime = 5 serviceTime = 28
+ Task 31 arrivalTime = 5 serviceTime = 9
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 is closed.
+server4 :  Task 36 arrivalTime = 4 serviceTime = 32 
+server3 :  Task 39 arrivalTime = 2 serviceTime = 9 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 25 server1 : 
+ Task 20 arrivalTime = 2 serviceTime = 30 
+
+ TIME : 5
+ Task 12 arrivalTime = 6 serviceTime = 3
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server4 :  Task 36 arrivalTime = 4 serviceTime = 31 
+server5 :  Task 16 arrivalTime = 5 serviceTime = 28 
+server2 : server3 :  Task 28 arrivalTime = 2 serviceTime = 24  Task 39 arrivalTime = 2 serviceTime = 8 
+
+server1 :  Task 20 arrivalTime = 2 serviceTime = 29  Task 31 arrivalTime = 5 serviceTime = 9 
+
+ TIME : 6
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server4 :  Task 36 arrivalTime = 4 serviceTime = 30 
+server5 :  Task 16 arrivalTime = 5 serviceTime = 27 
+server3 : server2 :  Task 39 arrivalTime = 2 serviceTime = 7  Task 28 arrivalTime = 2 serviceTime = 23 
+ Task 12 arrivalTime = 6 serviceTime = 3 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 28  Task 31 arrivalTime = 5 serviceTime = 9 
+
+ TIME : 7
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 26  Task 36 arrivalTime = 4 serviceTime = 29 
+
+server3 :  Task 39 arrivalTime = 2 serviceTime = 6 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 22  Task 12 arrivalTime = 6 serviceTime = 3 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 27  Task 31 arrivalTime = 5 serviceTime = 9 
+
+ TIME : 8
+ Task 2 arrivalTime = 9 serviceTime = 25
+ Task 25 arrivalTime = 9 serviceTime = 39
+ Task 37 arrivalTime = 9 serviceTime = 17
+ Task 46 arrivalTime = 9 serviceTime = 29
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 25  Task 36 arrivalTime = 4 serviceTime = 28 
+
+server2 : server3 :  Task 28 arrivalTime = 2 serviceTime = 21  Task 39 arrivalTime = 2 serviceTime = 5  Task 12 arrivalTime = 6 serviceTime = 3 
+
+server1 :  Task 20 arrivalTime = 2 serviceTime = 26  Task 31 arrivalTime = 5 serviceTime = 9 
+
+ TIME : 9
+ Task 9 arrivalTime = 10 serviceTime = 17
+ Task 34 arrivalTime = 10 serviceTime = 14
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 24  Task 36 arrivalTime = 4 serviceTime = 27  Task 25 arrivalTime = 9 serviceTime = 39  Task 37 arrivalTime = 9 serviceTime = 17 
+
+server3 : server2 :  Task 39 arrivalTime = 2 serviceTime = 4  Task 28 arrivalTime = 2 serviceTime = 20  Task 2 arrivalTime = 9 serviceTime = 25  Task 12 arrivalTime = 6 serviceTime = 3 
+
+server1 :  Task 20 arrivalTime = 2 serviceTime = 25  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29 
+
+ TIME : 10
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 23  Task 37 arrivalTime = 9 serviceTime = 17  Task 36 arrivalTime = 4 serviceTime = 26 
+ Task 25 arrivalTime = 9 serviceTime = 39 
+server3 :  Task 39 arrivalTime = 2 serviceTime = 3  Task 2 arrivalTime = 9 serviceTime = 25  Task 34 arrivalTime = 10 serviceTime = 14 server2 : 
+ Task 28 arrivalTime = 2 serviceTime = 19  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 24  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29 
+
+ TIME : 11
+ Task 7 arrivalTime = 12 serviceTime = 7
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 22  Task 37 arrivalTime = 9 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 25  Task 25 arrivalTime = 9 serviceTime = 39 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 18  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17 
+server3 :  Task 39 arrivalTime = 2 serviceTime = 2  Task 2 arrivalTime = 9 serviceTime = 25  Task 34 arrivalTime = 10 serviceTime = 14 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 23  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29 
+
+ TIME : 12
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 21  Task 37 arrivalTime = 9 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 24  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server1 : server3 : server2 :  Task 20 arrivalTime = 2 serviceTime = 22  Task 28 arrivalTime = 2 serviceTime = 17  Task 39 arrivalTime = 2 serviceTime = 1  Task 31 arrivalTime = 5 serviceTime = 9  Task 12 arrivalTime = 6 serviceTime = 3  Task 2 arrivalTime = 9 serviceTime = 25  Task 46 arrivalTime = 9 serviceTime = 29  Task 9 arrivalTime = 10 serviceTime = 17  Task 34 arrivalTime = 10 serviceTime = 14 
+
+
+
+ TIME : 13
+ Task 17 arrivalTime = 14 serviceTime = 10
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 20  Task 37 arrivalTime = 9 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 23  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server1 : server3 : server2 :  Task 2 arrivalTime = 9 serviceTime = 25  Task 20 arrivalTime = 2 serviceTime = 21  Task 28 arrivalTime = 2 serviceTime = 16  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 12 arrivalTime = 6 serviceTime = 3 
+ Task 46 arrivalTime = 9 serviceTime = 29  Task 9 arrivalTime = 10 serviceTime = 17 
+
+
+ TIME : 14
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 19  Task 37 arrivalTime = 9 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 22  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server2 : server1 :  Task 28 arrivalTime = 2 serviceTime = 15  Task 20 arrivalTime = 2 serviceTime = 20  Task 12 arrivalTime = 6 serviceTime = 3  Task 31 arrivalTime = 5 serviceTime = 9  Task 9 arrivalTime = 10 serviceTime = 17 
+ Task 46 arrivalTime = 9 serviceTime = 29 server3 : 
+ Task 2 arrivalTime = 9 serviceTime = 24  Task 34 arrivalTime = 10 serviceTime = 14  Task 17 arrivalTime = 14 serviceTime = 10 
+
+ TIME : 15
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server4 : server5 :  Task 36 arrivalTime = 4 serviceTime = 21  Task 16 arrivalTime = 5 serviceTime = 18  Task 25 arrivalTime = 9 serviceTime = 39  Task 37 arrivalTime = 9 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7 
+
+server2 : server1 : server3 :  Task 28 arrivalTime = 2 serviceTime = 14  Task 20 arrivalTime = 2 serviceTime = 19  Task 2 arrivalTime = 9 serviceTime = 23  Task 12 arrivalTime = 6 serviceTime = 3  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 9 arrivalTime = 10 serviceTime = 17  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10 
+
+
+
+ TIME : 16
+ Task 30 arrivalTime = 17 serviceTime = 17
+ Task 33 arrivalTime = 17 serviceTime = 31
+ Task 47 arrivalTime = 17 serviceTime = 12
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 17  Task 37 arrivalTime = 9 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 20  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server3 : server2 : server1 :  Task 28 arrivalTime = 2 serviceTime = 13  Task 2 arrivalTime = 9 serviceTime = 22  Task 12 arrivalTime = 6 serviceTime = 3  Task 20 arrivalTime = 2 serviceTime = 18  Task 34 arrivalTime = 10 serviceTime = 14  Task 9 arrivalTime = 10 serviceTime = 17  Task 31 arrivalTime = 5 serviceTime = 9  Task 17 arrivalTime = 14 serviceTime = 10 
+ Task 46 arrivalTime = 9 serviceTime = 29 
+
+
+ TIME : 17
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 16  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 19  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 12  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 17  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31 
+server3 :  Task 2 arrivalTime = 9 serviceTime = 21  Task 34 arrivalTime = 10 serviceTime = 14  Task 17 arrivalTime = 14 serviceTime = 10 
+
+ TIME : 18
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 15  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 18  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 11  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 20  Task 20 arrivalTime = 2 serviceTime = 16  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29 
+ Task 33 arrivalTime = 17 serviceTime = 31 
+
+ TIME : 19
+ Task 1 arrivalTime = 20 serviceTime = 21
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 14  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 17  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 10  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 15  Task 2 arrivalTime = 9 serviceTime = 19  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31 
+
+
+ TIME : 20
+ Task 11 arrivalTime = 21 serviceTime = 34
+ Task 32 arrivalTime = 21 serviceTime = 12
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 13  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 16  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 9  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 2 arrivalTime = 9 serviceTime = 18  Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31  Task 34 arrivalTime = 10 serviceTime = 14 
+ Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21 
+
+ TIME : 21
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 12  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 15  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 8  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server1 : server3 :  Task 2 arrivalTime = 9 serviceTime = 17  Task 20 arrivalTime = 2 serviceTime = 13  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21 
+
+
+ TIME : 22
+ Task 22 arrivalTime = 23 serviceTime = 23
+ Task 42 arrivalTime = 23 serviceTime = 6
+ Task 50 arrivalTime = 23 serviceTime = 28
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 11  Task 37 arrivalTime = 9 serviceTime = 17  Task 36 arrivalTime = 4 serviceTime = 14  Task 25 arrivalTime = 9 serviceTime = 39  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34 
+
+server2 :  Task 28 arrivalTime = 2 serviceTime = 7  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 16  Task 20 arrivalTime = 2 serviceTime = 12  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21 
+
+
+ TIME : 23
+ Task 14 arrivalTime = 24 serviceTime = 9
+ Task 27 arrivalTime = 24 serviceTime = 32
+ Task 41 arrivalTime = 24 serviceTime = 36
+ Task 43 arrivalTime = 24 serviceTime = 4
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 10  Task 36 arrivalTime = 4 serviceTime = 13  Task 37 arrivalTime = 9 serviceTime = 17  Task 25 arrivalTime = 9 serviceTime = 39  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12 
+ Task 11 arrivalTime = 21 serviceTime = 34 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 6  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 15  Task 20 arrivalTime = 2 serviceTime = 11  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28 
+
+
+ TIME : 24
+ Task 6 arrivalTime = 25 serviceTime = 37
+ Task 8 arrivalTime = 25 serviceTime = 32
+ Task 24 arrivalTime = 25 serviceTime = 20
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 9  Task 36 arrivalTime = 4 serviceTime = 12  Task 37 arrivalTime = 9 serviceTime = 17  Task 25 arrivalTime = 9 serviceTime = 39  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 27 arrivalTime = 24 serviceTime = 32 
+
+server2 :  Task 28 arrivalTime = 2 serviceTime = 5  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 10  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23 server3 :  Task 41 arrivalTime = 24 serviceTime = 36  Task 2 arrivalTime = 9 serviceTime = 14 
+ Task 34 arrivalTime = 10 serviceTime = 14  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28 
+
+ TIME : 25
+ Task 26 arrivalTime = 26 serviceTime = 32
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 8  Task 36 arrivalTime = 4 serviceTime = 11  Task 37 arrivalTime = 9 serviceTime = 17  Task 25 arrivalTime = 9 serviceTime = 39  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34  Task 27 arrivalTime = 24 serviceTime = 32  Task 14 arrivalTime = 24 serviceTime = 9  Task 24 arrivalTime = 25 serviceTime = 20  Task 8 arrivalTime = 25 serviceTime = 32 
+
+server2 :  Task 28 arrivalTime = 2 serviceTime = 4  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4 
+server3 :  Task 2 arrivalTime = 9 serviceTime = 13  Task 34 arrivalTime = 10 serviceTime = 14  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21 server1 :  Task 50 arrivalTime = 23 serviceTime = 28  Task 20 arrivalTime = 2 serviceTime = 9  Task 6 arrivalTime = 25 serviceTime = 37  Task 31 arrivalTime = 5 serviceTime = 9 
+ Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36 
+
+ TIME : 26
+ Task 29 arrivalTime = 27 serviceTime = 15
+ Task 49 arrivalTime = 27 serviceTime = 21
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 16 arrivalTime = 5 serviceTime = 7  Task 36 arrivalTime = 4 serviceTime = 10  Task 37 arrivalTime = 9 serviceTime = 17  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 30 arrivalTime = 17 serviceTime = 17  Task 11 arrivalTime = 21 serviceTime = 34  Task 32 arrivalTime = 21 serviceTime = 12  Task 14 arrivalTime = 24 serviceTime = 9  Task 27 arrivalTime = 24 serviceTime = 32  Task 8 arrivalTime = 25 serviceTime = 32 
+ Task 24 arrivalTime = 25 serviceTime = 20 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 3  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 8  Task 2 arrivalTime = 9 serviceTime = 12  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32 
+
+
+ TIME : 27
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 6  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 9  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 2  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 7  Task 2 arrivalTime = 9 serviceTime = 11  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21 
+
+
+ TIME : 28
+ Task 5 arrivalTime = 29 serviceTime = 15
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 5  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server4 : 
+ Task 36 arrivalTime = 4 serviceTime = 8  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32 
+server2 :  Task 28 arrivalTime = 2 serviceTime = 1  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 10  Task 20 arrivalTime = 2 serviceTime = 6  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 6 arrivalTime = 25 serviceTime = 37  Task 41 arrivalTime = 24 serviceTime = 36  Task 49 arrivalTime = 27 serviceTime = 21  Task 26 arrivalTime = 26 serviceTime = 32 
+
+
+ TIME : 29
+ Task 38 arrivalTime = 30 serviceTime = 12
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 4  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12 server4 :  Task 27 arrivalTime = 24 serviceTime = 32  Task 36 arrivalTime = 4 serviceTime = 7  Task 24 arrivalTime = 25 serviceTime = 20  Task 25 arrivalTime = 9 serviceTime = 39 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32 
+server2 :  Task 12 arrivalTime = 6 serviceTime = 3  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 5  Task 2 arrivalTime = 9 serviceTime = 9  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21 
+
+
+ TIME : 30
+ Task 18 arrivalTime = 31 serviceTime = 34
+ Task 23 arrivalTime = 31 serviceTime = 23
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 3  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12 server4 :  Task 27 arrivalTime = 24 serviceTime = 32  Task 36 arrivalTime = 4 serviceTime = 6  Task 24 arrivalTime = 25 serviceTime = 20  Task 25 arrivalTime = 9 serviceTime = 39 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 12 arrivalTime = 6 serviceTime = 2  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 8  Task 20 arrivalTime = 2 serviceTime = 4  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 9  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 6 arrivalTime = 25 serviceTime = 37  Task 41 arrivalTime = 24 serviceTime = 36  Task 49 arrivalTime = 27 serviceTime = 21  Task 26 arrivalTime = 26 serviceTime = 32 
+
+
+ TIME : 31
+ Task 44 arrivalTime = 32 serviceTime = 20
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 2  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34 
+server4 :  Task 36 arrivalTime = 4 serviceTime = 5  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 12 arrivalTime = 6 serviceTime = 1  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 3  Task 2 arrivalTime = 9 serviceTime = 7  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29  Task 34 arrivalTime = 10 serviceTime = 14  Task 33 arrivalTime = 17 serviceTime = 31  Task 17 arrivalTime = 14 serviceTime = 10  Task 22 arrivalTime = 23 serviceTime = 23  Task 1 arrivalTime = 20 serviceTime = 21  Task 41 arrivalTime = 24 serviceTime = 36  Task 50 arrivalTime = 23 serviceTime = 28  Task 26 arrivalTime = 26 serviceTime = 32  Task 6 arrivalTime = 25 serviceTime = 37  Task 23 arrivalTime = 31 serviceTime = 23 
+ Task 49 arrivalTime = 27 serviceTime = 21 
+
+ TIME : 32
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 16 arrivalTime = 5 serviceTime = 1  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34 server4 : 
+ Task 36 arrivalTime = 4 serviceTime = 4  Task 25 arrivalTime = 9 serviceTime = 39  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 17  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20 
+server1 :  Task 20 arrivalTime = 2 serviceTime = 2  Task 31 arrivalTime = 5 serviceTime = 9  Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36 server3 :  Task 26 arrivalTime = 26 serviceTime = 32  Task 2 arrivalTime = 9 serviceTime = 6  Task 23 arrivalTime = 31 serviceTime = 23  Task 34 arrivalTime = 10 serviceTime = 14 
+ Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21 
+
+ TIME : 33
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 37 arrivalTime = 9 serviceTime = 17  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32 server4 :  Task 24 arrivalTime = 25 serviceTime = 20  Task 36 arrivalTime = 4 serviceTime = 3  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 39 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 16  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20 
+server1 : server3 :  Task 20 arrivalTime = 2 serviceTime = 1  Task 2 arrivalTime = 9 serviceTime = 5  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23 
+
+
+ TIME : 34
+ Task 35 arrivalTime = 35 serviceTime = 16
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 37 arrivalTime = 9 serviceTime = 16  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32 server4 :  Task 24 arrivalTime = 25 serviceTime = 20  Task 36 arrivalTime = 4 serviceTime = 2  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 39 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 15  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 4  Task 31 arrivalTime = 5 serviceTime = 9  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23 
+
+
+ TIME : 35
+ Task 21 arrivalTime = 36 serviceTime = 6
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 :  Task 37 arrivalTime = 9 serviceTime = 15  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server4 :  Task 18 arrivalTime = 31 serviceTime = 34  Task 36 arrivalTime = 4 serviceTime = 1  Task 35 arrivalTime = 35 serviceTime = 16  Task 25 arrivalTime = 9 serviceTime = 39 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 14  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20 
+server3 : server1 :  Task 2 arrivalTime = 9 serviceTime = 3  Task 31 arrivalTime = 5 serviceTime = 8  Task 34 arrivalTime = 10 serviceTime = 14  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 26 arrivalTime = 26 serviceTime = 32 
+ Task 23 arrivalTime = 31 serviceTime = 23 
+
+ TIME : 36
+ Task 4 arrivalTime = 37 serviceTime = 27
+ Task 10 arrivalTime = 37 serviceTime = 25
+ Task 48 arrivalTime = 37 serviceTime = 16
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 37 arrivalTime = 9 serviceTime = 14  Task 25 arrivalTime = 9 serviceTime = 39  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34  Task 27 arrivalTime = 24 serviceTime = 32  Task 14 arrivalTime = 24 serviceTime = 9  Task 24 arrivalTime = 25 serviceTime = 20  Task 8 arrivalTime = 25 serviceTime = 32  Task 18 arrivalTime = 31 serviceTime = 34  Task 38 arrivalTime = 30 serviceTime = 12  Task 35 arrivalTime = 35 serviceTime = 16  Task 21 arrivalTime = 36 serviceTime = 6 
+
+server2 :  Task 9 arrivalTime = 10 serviceTime = 13  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20 
+server1 : server3 :  Task 31 arrivalTime = 5 serviceTime = 7  Task 2 arrivalTime = 9 serviceTime = 2  Task 46 arrivalTime = 9 serviceTime = 29  Task 34 arrivalTime = 10 serviceTime = 14  Task 33 arrivalTime = 17 serviceTime = 31  Task 17 arrivalTime = 14 serviceTime = 10  Task 22 arrivalTime = 23 serviceTime = 23  Task 1 arrivalTime = 20 serviceTime = 21  Task 41 arrivalTime = 24 serviceTime = 36  Task 50 arrivalTime = 23 serviceTime = 28  Task 26 arrivalTime = 26 serviceTime = 32  Task 6 arrivalTime = 25 serviceTime = 37  Task 23 arrivalTime = 31 serviceTime = 23  Task 49 arrivalTime = 27 serviceTime = 21 
+
+
+ TIME : 37
+ Task 3 arrivalTime = 38 serviceTime = 19
+ Task 13 arrivalTime = 38 serviceTime = 16
+ Task 19 arrivalTime = 38 serviceTime = 21
+ Task 40 arrivalTime = 38 serviceTime = 36
+ Task 45 arrivalTime = 38 serviceTime = 12
+ Task 15 arrivalTime = 39 serviceTime = 24
+server5 : server4 :  Task 37 arrivalTime = 9 serviceTime = 13  Task 25 arrivalTime = 9 serviceTime = 38  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34  Task 27 arrivalTime = 24 serviceTime = 32  Task 14 arrivalTime = 24 serviceTime = 9  Task 24 arrivalTime = 25 serviceTime = 20  Task 8 arrivalTime = 25 serviceTime = 32  Task 18 arrivalTime = 31 serviceTime = 34  Task 38 arrivalTime = 30 serviceTime = 12  Task 35 arrivalTime = 35 serviceTime = 16  Task 21 arrivalTime = 36 serviceTime = 6 
+
+server2 :  Task 9 arrivalTime = 10 serviceTime = 12  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25 
+server1 : server3 :  Task 31 arrivalTime = 5 serviceTime = 6  Task 2 arrivalTime = 9 serviceTime = 1  Task 46 arrivalTime = 9 serviceTime = 29  Task 34 arrivalTime = 10 serviceTime = 14  Task 33 arrivalTime = 17 serviceTime = 31  Task 17 arrivalTime = 14 serviceTime = 10  Task 22 arrivalTime = 23 serviceTime = 23  Task 1 arrivalTime = 20 serviceTime = 21  Task 41 arrivalTime = 24 serviceTime = 36  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23  Task 48 arrivalTime = 37 serviceTime = 16  Task 4 arrivalTime = 37 serviceTime = 27 
+
+
+ TIME : 38
+ Task 15 arrivalTime = 39 serviceTime = 24
+server4 : server5 :  Task 37 arrivalTime = 9 serviceTime = 12  Task 25 arrivalTime = 9 serviceTime = 37  Task 30 arrivalTime = 17 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 32 arrivalTime = 21 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34  Task 27 arrivalTime = 24 serviceTime = 32  Task 14 arrivalTime = 24 serviceTime = 9  Task 24 arrivalTime = 25 serviceTime = 20  Task 8 arrivalTime = 25 serviceTime = 32 server2 :  Task 18 arrivalTime = 31 serviceTime = 34  Task 38 arrivalTime = 30 serviceTime = 12  Task 9 arrivalTime = 10 serviceTime = 11  Task 35 arrivalTime = 35 serviceTime = 16  Task 21 arrivalTime = 36 serviceTime = 6  Task 19 arrivalTime = 38 serviceTime = 21  Task 47 arrivalTime = 17 serviceTime = 12  Task 13 arrivalTime = 38 serviceTime = 16 
+ Task 42 arrivalTime = 23 serviceTime = 6 
+ Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server3 : server1 :  Task 34 arrivalTime = 10 serviceTime = 14  Task 31 arrivalTime = 5 serviceTime = 5  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23  Task 48 arrivalTime = 37 serviceTime = 16  Task 4 arrivalTime = 37 serviceTime = 27  Task 3 arrivalTime = 38 serviceTime = 19  Task 40 arrivalTime = 38 serviceTime = 36 
+
+
+ TIME : 39
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 11  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server4 : server2 :  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 36  Task 9 arrivalTime = 10 serviceTime = 10  Task 35 arrivalTime = 35 serviceTime = 16  Task 7 arrivalTime = 12 serviceTime = 7  Task 19 arrivalTime = 38 serviceTime = 21  Task 47 arrivalTime = 17 serviceTime = 12  Task 11 arrivalTime = 21 serviceTime = 34 
+ Task 42 arrivalTime = 23 serviceTime = 6  Task 14 arrivalTime = 24 serviceTime = 9  Task 43 arrivalTime = 24 serviceTime = 4  Task 8 arrivalTime = 25 serviceTime = 32  Task 29 arrivalTime = 27 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 5 arrivalTime = 29 serviceTime = 15  Task 21 arrivalTime = 36 serviceTime = 6  Task 44 arrivalTime = 32 serviceTime = 20  Task 13 arrivalTime = 38 serviceTime = 16  Task 10 arrivalTime = 37 serviceTime = 25 
+ Task 45 arrivalTime = 38 serviceTime = 12 
+server1 : server3 :  Task 31 arrivalTime = 5 serviceTime = 4  Task 34 arrivalTime = 10 serviceTime = 13  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 4 arrivalTime = 37 serviceTime = 27  Task 15 arrivalTime = 39 serviceTime = 24  Task 40 arrivalTime = 38 serviceTime = 36 
+
+
+ TIME : 40
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 10  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12 server2 : server4 :  Task 27 arrivalTime = 24 serviceTime = 32  Task 9 arrivalTime = 10 serviceTime = 9  Task 25 arrivalTime = 9 serviceTime = 35  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 47 arrivalTime = 17 serviceTime = 12  Task 7 arrivalTime = 12 serviceTime = 7  Task 35 arrivalTime = 35 serviceTime = 16  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 19 arrivalTime = 38 serviceTime = 21  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9 
+ Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 : server3 :  Task 31 arrivalTime = 5 serviceTime = 3  Task 34 arrivalTime = 10 serviceTime = 12  Task 46 arrivalTime = 9 serviceTime = 29  Task 17 arrivalTime = 14 serviceTime = 10  Task 33 arrivalTime = 17 serviceTime = 31  Task 1 arrivalTime = 20 serviceTime = 21  Task 22 arrivalTime = 23 serviceTime = 23  Task 50 arrivalTime = 23 serviceTime = 28  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23  Task 48 arrivalTime = 37 serviceTime = 16  Task 4 arrivalTime = 37 serviceTime = 27  Task 3 arrivalTime = 38 serviceTime = 19  Task 40 arrivalTime = 38 serviceTime = 36  Task 15 arrivalTime = 39 serviceTime = 24 
+
+
+ TIME : 41
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 9  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 server4 : 
+ Task 25 arrivalTime = 9 serviceTime = 34  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32 server2 :  Task 38 arrivalTime = 30 serviceTime = 12  Task 9 arrivalTime = 10 serviceTime = 8  Task 21 arrivalTime = 36 serviceTime = 6  Task 47 arrivalTime = 17 serviceTime = 12  Task 13 arrivalTime = 38 serviceTime = 16  Task 42 arrivalTime = 23 serviceTime = 6 
+ Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server3 : server1 :  Task 34 arrivalTime = 10 serviceTime = 11  Task 31 arrivalTime = 5 serviceTime = 2  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 22 arrivalTime = 23 serviceTime = 23  Task 49 arrivalTime = 27 serviceTime = 21  Task 41 arrivalTime = 24 serviceTime = 36  Task 48 arrivalTime = 37 serviceTime = 16  Task 26 arrivalTime = 26 serviceTime = 32  Task 3 arrivalTime = 38 serviceTime = 19  Task 23 arrivalTime = 31 serviceTime = 23  Task 15 arrivalTime = 39 serviceTime = 24  Task 4 arrivalTime = 37 serviceTime = 27 
+ Task 40 arrivalTime = 38 serviceTime = 36 
+
+ TIME : 42
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 8  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 server4 : 
+ Task 25 arrivalTime = 9 serviceTime = 33  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9 server2 :  Task 8 arrivalTime = 25 serviceTime = 32  Task 9 arrivalTime = 10 serviceTime = 7  Task 38 arrivalTime = 30 serviceTime = 12  Task 47 arrivalTime = 17 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 42 arrivalTime = 23 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16  Task 43 arrivalTime = 24 serviceTime = 4 
+ Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server3 : server1 :  Task 34 arrivalTime = 10 serviceTime = 10  Task 31 arrivalTime = 5 serviceTime = 1  Task 17 arrivalTime = 14 serviceTime = 10  Task 46 arrivalTime = 9 serviceTime = 29  Task 1 arrivalTime = 20 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 50 arrivalTime = 23 serviceTime = 28  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 6 arrivalTime = 25 serviceTime = 37  Task 26 arrivalTime = 26 serviceTime = 32  Task 49 arrivalTime = 27 serviceTime = 21  Task 23 arrivalTime = 31 serviceTime = 23  Task 48 arrivalTime = 37 serviceTime = 16  Task 4 arrivalTime = 37 serviceTime = 27  Task 3 arrivalTime = 38 serviceTime = 19  Task 40 arrivalTime = 38 serviceTime = 36  Task 15 arrivalTime = 39 serviceTime = 24 
+
+
+ TIME : 43
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 7  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 :  Task 25 arrivalTime = 9 serviceTime = 32  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 6  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 29  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27 server3 :  Task 40 arrivalTime = 38 serviceTime = 36  Task 34 arrivalTime = 10 serviceTime = 9 
+ Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 44
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 6  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 server4 : 
+ Task 25 arrivalTime = 9 serviceTime = 31  Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 5  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+
+ TIME : 45
+There are no clients in the waiting queue. 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 28  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23 server3 :  Task 4 arrivalTime = 37 serviceTime = 27  Task 34 arrivalTime = 10 serviceTime = 8  Task 40 arrivalTime = 38 serviceTime = 36  Task 17 arrivalTime = 14 serviceTime = 10 
+ Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 5  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16 server4 :  Task 19 arrivalTime = 38 serviceTime = 21  Task 25 arrivalTime = 9 serviceTime = 30 
+ Task 7 arrivalTime = 12 serviceTime = 7  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 4  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15 
+ TIME : 46
+ Task 5 arrivalTime = 29 serviceTime = 15 There are no clients in the waiting queue. 
+ Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 27  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23 server3 :  Task 4 arrivalTime = 37 serviceTime = 27  Task 34 arrivalTime = 10 serviceTime = 7  Task 40 arrivalTime = 38 serviceTime = 36  Task 17 arrivalTime = 14 serviceTime = 10 
+ Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 47
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 4  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server4 :  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 29  Task 35 arrivalTime = 35 serviceTime = 16  Task 7 arrivalTime = 12 serviceTime = 7  Task 19 arrivalTime = 38 serviceTime = 21  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9 
+ Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16 
+server2 :  Task 9 arrivalTime = 10 serviceTime = 3  Task 47 arrivalTime = 17 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 26  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 34 arrivalTime = 10 serviceTime = 6  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 48
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 3  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32 server4 :  Task 24 arrivalTime = 25 serviceTime = 20  Task 25 arrivalTime = 9 serviceTime = 28  Task 18 arrivalTime = 31 serviceTime = 34  Task 7 arrivalTime = 12 serviceTime = 7  Task 35 arrivalTime = 35 serviceTime = 16  Task 11 arrivalTime = 21 serviceTime = 34  Task 19 arrivalTime = 38 serviceTime = 21  Task 14 arrivalTime = 24 serviceTime = 9 
+server2 :  Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 9 arrivalTime = 10 serviceTime = 2  Task 21 arrivalTime = 36 serviceTime = 6  Task 47 arrivalTime = 17 serviceTime = 12  Task 13 arrivalTime = 38 serviceTime = 16  Task 42 arrivalTime = 23 serviceTime = 6 
+ Task 43 arrivalTime = 24 serviceTime = 4  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 25  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 server3 : 
+ Task 34 arrivalTime = 10 serviceTime = 5  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 49
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 2  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server4 :  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 27  Task 35 arrivalTime = 35 serviceTime = 16  Task 7 arrivalTime = 12 serviceTime = 7  Task 19 arrivalTime = 38 serviceTime = 21  Task 11 arrivalTime = 21 serviceTime = 34 server2 : 
+ Task 14 arrivalTime = 24 serviceTime = 9  Task 9 arrivalTime = 10 serviceTime = 1  Task 8 arrivalTime = 25 serviceTime = 32  Task 47 arrivalTime = 17 serviceTime = 12  Task 38 arrivalTime = 30 serviceTime = 12  Task 42 arrivalTime = 23 serviceTime = 6  Task 21 arrivalTime = 36 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4  Task 13 arrivalTime = 38 serviceTime = 16  Task 29 arrivalTime = 27 serviceTime = 15 
+ Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 24  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 34 arrivalTime = 10 serviceTime = 4  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 50
+There are no clients in the waiting queue. 
+server5 :  Task 37 arrivalTime = 9 serviceTime = 1  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32 server4 : server2 :  Task 24 arrivalTime = 25 serviceTime = 20  Task 25 arrivalTime = 9 serviceTime = 26  Task 47 arrivalTime = 17 serviceTime = 12  Task 18 arrivalTime = 31 serviceTime = 34  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 35 arrivalTime = 35 serviceTime = 16  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 19 arrivalTime = 38 serviceTime = 21  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32 
+ Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 10 arrivalTime = 37 serviceTime = 25  Task 21 arrivalTime = 36 serviceTime = 6  Task 45 arrivalTime = 38 serviceTime = 12  Task 13 arrivalTime = 38 serviceTime = 16 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 23  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 34 arrivalTime = 10 serviceTime = 3  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 51
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 17  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20 server2 : server4 :  Task 47 arrivalTime = 17 serviceTime = 11  Task 18 arrivalTime = 31 serviceTime = 34  Task 25 arrivalTime = 9 serviceTime = 25  Task 42 arrivalTime = 23 serviceTime = 6  Task 35 arrivalTime = 35 serviceTime = 16  Task 7 arrivalTime = 12 serviceTime = 7  Task 43 arrivalTime = 24 serviceTime = 4  Task 19 arrivalTime = 38 serviceTime = 21  Task 11 arrivalTime = 21 serviceTime = 34  Task 29 arrivalTime = 27 serviceTime = 15 
+ Task 14 arrivalTime = 24 serviceTime = 9  Task 5 arrivalTime = 29 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 44 arrivalTime = 32 serviceTime = 20  Task 38 arrivalTime = 30 serviceTime = 12  Task 10 arrivalTime = 37 serviceTime = 25  Task 21 arrivalTime = 36 serviceTime = 6  Task 45 arrivalTime = 38 serviceTime = 12  Task 13 arrivalTime = 38 serviceTime = 16 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 22  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 34 arrivalTime = 10 serviceTime = 2  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 52
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 16  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 : server2 :  Task 25 arrivalTime = 9 serviceTime = 24  Task 47 arrivalTime = 17 serviceTime = 10  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 21  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 34 arrivalTime = 10 serviceTime = 1  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 53
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 15  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server2 : server4 :  Task 25 arrivalTime = 9 serviceTime = 23  Task 47 arrivalTime = 17 serviceTime = 9  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 20  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 10  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 54
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 14  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 : server2 :  Task 25 arrivalTime = 9 serviceTime = 22  Task 47 arrivalTime = 17 serviceTime = 8  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 19  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 9  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 55
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 13  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server2 :  Task 47 arrivalTime = 17 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 43 arrivalTime = 24 serviceTime = 4 server4 :  Task 29 arrivalTime = 27 serviceTime = 15  Task 5 arrivalTime = 29 serviceTime = 15  Task 25 arrivalTime = 9 serviceTime = 21  Task 44 arrivalTime = 32 serviceTime = 20  Task 7 arrivalTime = 12 serviceTime = 7  Task 10 arrivalTime = 37 serviceTime = 25  Task 11 arrivalTime = 21 serviceTime = 34  Task 45 arrivalTime = 38 serviceTime = 12  Task 14 arrivalTime = 24 serviceTime = 9 
+ Task 8 arrivalTime = 25 serviceTime = 32  Task 38 arrivalTime = 30 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6  Task 13 arrivalTime = 38 serviceTime = 16 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 18  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 8  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 56
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 12  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 : server2 :  Task 25 arrivalTime = 9 serviceTime = 20  Task 47 arrivalTime = 17 serviceTime = 6  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 17  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 7  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 57
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 11  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 : server2 :  Task 47 arrivalTime = 17 serviceTime = 5  Task 25 arrivalTime = 9 serviceTime = 19  Task 42 arrivalTime = 23 serviceTime = 6  Task 7 arrivalTime = 12 serviceTime = 7  Task 43 arrivalTime = 24 serviceTime = 4  Task 11 arrivalTime = 21 serviceTime = 34  Task 29 arrivalTime = 27 serviceTime = 15  Task 14 arrivalTime = 24 serviceTime = 9  Task 5 arrivalTime = 29 serviceTime = 15  Task 44 arrivalTime = 32 serviceTime = 20  Task 8 arrivalTime = 25 serviceTime = 32  Task 10 arrivalTime = 37 serviceTime = 25  Task 38 arrivalTime = 30 serviceTime = 12  Task 45 arrivalTime = 38 serviceTime = 12  Task 21 arrivalTime = 36 serviceTime = 6 
+ Task 13 arrivalTime = 38 serviceTime = 16 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 16  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 6  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 58
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 10  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server4 : server2 :  Task 25 arrivalTime = 9 serviceTime = 18  Task 47 arrivalTime = 17 serviceTime = 4  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 43 arrivalTime = 24 serviceTime = 4  Task 14 arrivalTime = 24 serviceTime = 9  Task 29 arrivalTime = 27 serviceTime = 15  Task 8 arrivalTime = 25 serviceTime = 32  Task 5 arrivalTime = 29 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 44 arrivalTime = 32 serviceTime = 20  Task 21 arrivalTime = 36 serviceTime = 6  Task 10 arrivalTime = 37 serviceTime = 25  Task 13 arrivalTime = 38 serviceTime = 16  Task 45 arrivalTime = 38 serviceTime = 12 
+
+server1 :  Task 46 arrivalTime = 9 serviceTime = 15  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 5  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ TIME : 59
+There are no clients in the waiting queue. 
+server5 :  Task 30 arrivalTime = 17 serviceTime = 9  Task 32 arrivalTime = 21 serviceTime = 12  Task 27 arrivalTime = 24 serviceTime = 32  Task 24 arrivalTime = 25 serviceTime = 20  Task 18 arrivalTime = 31 serviceTime = 34  Task 35 arrivalTime = 35 serviceTime = 16  Task 19 arrivalTime = 38 serviceTime = 21 
+server2 : server4 :  Task 47 arrivalTime = 17 serviceTime = 3  Task 25 arrivalTime = 9 serviceTime = 17  Task 7 arrivalTime = 12 serviceTime = 7  Task 42 arrivalTime = 23 serviceTime = 6  Task 11 arrivalTime = 21 serviceTime = 34  Task 14 arrivalTime = 24 serviceTime = 9  Task 43 arrivalTime = 24 serviceTime = 4  Task 8 arrivalTime = 25 serviceTime = 32  Task 29 arrivalTime = 27 serviceTime = 15  Task 38 arrivalTime = 30 serviceTime = 12  Task 5 arrivalTime = 29 serviceTime = 15  Task 21 arrivalTime = 36 serviceTime = 6  Task 44 arrivalTime = 32 serviceTime = 20  Task 13 arrivalTime = 38 serviceTime = 16  Task 10 arrivalTime = 37 serviceTime = 25 
+ Task 45 arrivalTime = 38 serviceTime = 12 
+server1 :  Task 46 arrivalTime = 9 serviceTime = 14  Task 33 arrivalTime = 17 serviceTime = 31  Task 22 arrivalTime = 23 serviceTime = 23  Task 41 arrivalTime = 24 serviceTime = 36  Task 26 arrivalTime = 26 serviceTime = 32  Task 23 arrivalTime = 31 serviceTime = 23  Task 4 arrivalTime = 37 serviceTime = 27  Task 40 arrivalTime = 38 serviceTime = 36 
+server3 :  Task 17 arrivalTime = 14 serviceTime = 4  Task 1 arrivalTime = 20 serviceTime = 21  Task 50 arrivalTime = 23 serviceTime = 28  Task 6 arrivalTime = 25 serviceTime = 37  Task 49 arrivalTime = 27 serviceTime = 21  Task 48 arrivalTime = 37 serviceTime = 16  Task 3 arrivalTime = 38 serviceTime = 19  Task 15 arrivalTime = 39 serviceTime = 24 
+
+ Peak time: [39, 42]
+ Average waiting time: 94.58s
+ Average service time: 20.88s42]

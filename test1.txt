@@ -1,0 +1,158 @@
+server1 is closed.
+server2 is closed.
+
+ TIME : 0
+ Task 3 arrivalTime = 2 serviceTime = 7
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server1 is closed.
+server2 is closed.
+
+ TIME : 1
+ Task 3 arrivalTime = 2 serviceTime = 7
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server1 is closed.
+server2 is closed.
+
+ TIME : 2
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 is closed.
+server1 :  Task 3 arrivalTime = 2 serviceTime = 7 
+
+ TIME : 3
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 is closed.
+server1 :  Task 3 arrivalTime = 2 serviceTime = 6 
+
+ TIME : 4
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 is closed.
+server1 :  Task 3 arrivalTime = 2 serviceTime = 5 
+
+ TIME : 5
+ Task 2 arrivalTime = 6 serviceTime = 18
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 is closed.
+server1 :  Task 3 arrivalTime = 2 serviceTime = 4 
+
+ TIME : 6
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 18 
+server1 :  Task 3 arrivalTime = 2 serviceTime = 3 
+
+ TIME : 7
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 17 
+server1 :  Task 3 arrivalTime = 2 serviceTime = 2 
+
+ TIME : 8
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 16 
+server1 :  Task 3 arrivalTime = 2 serviceTime = 1 
+
+ TIME : 9
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 15 
+server1 is closed.
+
+ TIME : 10
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 14 
+server1 is closed.
+
+ Peak time: [6, 8]
+ Average waiting time: 6.25s
+ Average service time: 7.75s8]
+ TIME : 11
+ Task 1 arrivalTime = 12 serviceTime = 4
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 13 
+server1 is closed.
+
+ TIME : 12
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 12 
+server1 :  Task 1 arrivalTime = 12 serviceTime = 4 
+
+ TIME : 13
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 11 
+server1 :  Task 1 arrivalTime = 12 serviceTime = 3 
+
+ TIME : 14
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 10 
+server1 :  Task 1 arrivalTime = 12 serviceTime = 2 
+
+ TIME : 15
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 9 
+server1 :  Task 1 arrivalTime = 12 serviceTime = 1 
+
+ TIME : 16
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 8 
+server1 is closed.
+
+ TIME : 17
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 7 
+server1 is closed.
+
+ TIME : 18
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 6 
+server1 is closed.
+
+ TIME : 19
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 5 
+server1 is closed.
+
+ TIME : 20
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 4 
+server1 is closed.
+
+ TIME : 21
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 3 
+server1 is closed.
+
+ TIME : 22
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 2 
+server1 is closed.
+
+ TIME : 23
+ Task 4 arrivalTime = 24 serviceTime = 2
+server2 :  Task 2 arrivalTime = 6 serviceTime = 1 
+server1 is closed.
+
+ TIME : 24
+There are no clients in the waiting queue. 
+server2 is closed.
+server1 :  Task 4 arrivalTime = 24 serviceTime = 2 
+
+ TIME : 25
+There are no clients in the waiting queue. 
+server2 is closed.
+server1 :  Task 4 arrivalTime = 24 serviceTime = 1 
+
+ TIME : 26
+DONE! There are no more clients.

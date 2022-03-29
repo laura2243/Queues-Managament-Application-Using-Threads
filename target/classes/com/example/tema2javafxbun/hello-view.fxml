@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="572.0" prefWidth="576.0" spacing="20.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tema2javafxbun.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <Pane prefHeight="551.0" prefWidth="536.0">
+         <children>
+            <Group layoutX="11.0" layoutY="26.0">
+               <children>
+                  <Label alignment="CENTER" layoutX="16.0" prefHeight="17.0" prefWidth="118.0" text="Number of Queues" />
+                  <TextField fx:id="numberOfQueues" layoutX="1.0" layoutY="29.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="16.0" layoutY="68.0" prefHeight="17.0" prefWidth="118.0" text="Number of Clients" />
+                  <TextField fx:id="numberOfClients" layoutY="93.0" prefHeight="25.0" prefWidth="150.0" />
+               </children>
+            </Group>
+            <Group layoutX="199.0" layoutY="26.0">
+               <children>
+                  <Label alignment="CENTER" layoutX="16.0" prefHeight="17.0" prefWidth="118.0" text="Min Arriving Time" />
+                  <TextField fx:id="minArrivingTime" layoutX="1.0" layoutY="29.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="16.0" layoutY="68.0" prefHeight="17.0" prefWidth="118.0" text="Max Arriving Time" />
+                  <TextField fx:id="maxArrivingTime" layoutY="93.0" prefHeight="25.0" prefWidth="150.0" />
+               </children>
+            </Group>
+            <Group layoutX="372.0" layoutY="26.0">
+               <children>
+                  <Label alignment="CENTER" layoutX="16.0" prefHeight="17.0" prefWidth="118.0" text="Min Processing Time" />
+                  <TextField fx:id="minProcessingTime" layoutX="1.0" layoutY="29.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="16.0" layoutY="68.0" prefHeight="17.0" prefWidth="118.0" text="Max Processing Time" />
+                  <TextField fx:id="maxProcessingTime" layoutY="93.0" prefHeight="25.0" prefWidth="150.0" />
+               </children>
+            </Group>
+            <MenuButton fx:id="strategy" alignment="CENTER" contentDisplay="CENTER" layoutX="374.0" layoutY="198.0" mnemonicParsing="false" onAction="#textBoxChoice" prefHeight="25.0" prefWidth="150.0" text="Strategy">
+              <items>
+                <MenuItem fx:id="shortestQueue" mnemonicParsing="false" onAction="#textBoxChoice1" text="Shortest Queue" />
+                <MenuItem fx:id="shortestTime" mnemonicParsing="false" onAction="#textBoxChoice2" text="Shortest Time" />
+              </items>
+            </MenuButton>
+            <Group layoutX="13.0" layoutY="171.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="16.0" prefHeight="17.0" prefWidth="118.0" text="TIME" />
+                  <TextField fx:id="time" layoutX="1.0" layoutY="29.0" promptText="Time Limit" />
+               </children>
+            </Group>
+            <Button fx:id="start" alignment="CENTER" contentDisplay="CENTER" layoutX="204.0" layoutY="192.0" mnemonicParsing="false" onAction="#startB" prefHeight="38.0" prefWidth="129.0" text="START" />
+            <TextArea fx:id="rezultat" layoutX="11.0" layoutY="254.0" prefHeight="274.0" prefWidth="514.0" />
+         </children>
+      </Pane>
+   </children>
+</VBox>
